@@ -1,0 +1,1 @@
+{"version":3,"file":"transformer.d.ts","sourceRoot":"","sources":["../../../src/adapters/outline/transformer.ts"],"names":[],"mappings":"AAAA,qBAAa,kBAAkB;IAC7B,iBAAiB,CAAC,QAAQ,EAAE,MAAM,GAAG,MAAM;IAI3C,iBAAiB,CAAC,WAAW,EAAE,MAAM,EAAE,MAAM,EAAE,MAAM,GAAG,MAAM;CAG/D"}

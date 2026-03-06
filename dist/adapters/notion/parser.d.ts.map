@@ -1,0 +1,1 @@
+{"version":3,"file":"parser.d.ts","sourceRoot":"","sources":["../../../src/adapters/notion/parser.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,YAAY,CAAC;AAE9C,qBAAa,YAAY;IACvB,qBAAqB,CAAC,MAAM,EAAE,WAAW,EAAE,GAAG,MAAM;IA2BpD,OAAO,CAAC,UAAU;CAqFnB"}

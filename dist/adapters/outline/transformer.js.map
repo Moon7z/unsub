@@ -1,0 +1,1 @@
+{"version":3,"file":"transformer.js","sourceRoot":"","sources":["../../../src/adapters/outline/transformer.ts"],"names":[],"mappings":"AAAA,MAAM,OAAO,kBAAkB;IAC7B,iBAAiB,CAAC,QAAgB;QAChC,OAAO,QAAQ,CAAC;IAClB,CAAC;IAED,iBAAiB,CAAC,WAAmB,EAAE,MAAc;QACnD,OAAO,MAAM,CAAC;IAChB,CAAC;CACF"}
